@@ -1,7 +1,2 @@
-
 *.dat
 results/
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
